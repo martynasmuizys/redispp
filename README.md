@@ -27,7 +27,7 @@ SET: 141242.94 requests per second, p50=0.183 msec
 GET: 137551.58 requests per second, p50=0.191 msec
 ```
 
-Redis++
+Redis++ server:
 ```sh
 SET: 135685.22 requests per second, p50=0.191 msec
 GET: 126582.27 requests per second, p50=0.199 msec
